@@ -1,0 +1,9 @@
+[project]
+name = "you2mp3"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13.3"
+dependencies = [
+    "yt-dlp>=2026.2.4",
+]
